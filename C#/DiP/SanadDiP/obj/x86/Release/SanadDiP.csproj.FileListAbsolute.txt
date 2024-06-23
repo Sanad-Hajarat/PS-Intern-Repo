@@ -1,0 +1,2 @@
+/home/sanad/.local/share/Trash/files/DiP/SanadDiP/bin/Release/SanadDiP.exe
+/home/sanad/.local/share/Trash/files/DiP/SanadDiP/obj/x86/Release/SanadDiP.csproj.CoreCompileInputs.cache
