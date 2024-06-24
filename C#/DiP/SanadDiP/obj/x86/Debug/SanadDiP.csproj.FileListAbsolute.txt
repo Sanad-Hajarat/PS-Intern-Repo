@@ -1,6 +1,0 @@
-/home/sanad/Projects/DiP/SanadDiP/obj/x86/Debug/SanadDiP.csproj.AssemblyReference.cache
-/home/sanad/Projects/DiP/SanadDiP/obj/x86/Debug/SanadDiP.csproj.CoreCompileInputs.cache
-/home/sanad/Projects/DiP/SanadDiP/bin/Debug/SanadDiP.exe
-/home/sanad/Projects/DiP/SanadDiP/bin/Debug/SanadDiP.pdb
-/home/sanad/Projects/DiP/SanadDiP/obj/x86/Debug/SanadDiP.exe
-/home/sanad/Projects/DiP/SanadDiP/obj/x86/Debug/SanadDiP.pdb
